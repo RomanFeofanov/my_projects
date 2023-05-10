@@ -1,7 +1,7 @@
 # МОИ ПРОЕКТЫ
 
 ---
-## [Анализ A/B-теста, SQL, автообновление данных A/B-теста Projecc_2.ipynb](https://github.com/RomanFeofanov/my_projects/blob/main/Project_2.ipynb/"Ссылка на проект")
+## [Анализ A/B-теста, SQL, автообновление данных A/B-теста Projecc_2.ipynb](https://github.com/RomanFeofanov/my_projects/blob/main/Project_2.ipynb)
 ## Задача 1. A/B–тестирование
 ### Цель проекта:  
 - проанализировать результаты A/B-теста новой механики оплаты;
