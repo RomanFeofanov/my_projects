@@ -1,7 +1,7 @@
 # МОИ ПРОЕКТЫ
 
 ---
-## [Анализ A/B-теста, SQL, автообновление данных A/B-теста Projecc_2.ipynb](https://github.com/RomanFeofanov/my_projects/blob/main/Project_2.ipynb)
+## [Анализ A/B-теста, SQL, автообновление данных A/B-теста Projecc_2.ipynb](https://github.com/RomanFeofanov/my_projects/blob/main/2d_project/Project_2.ipynb)
 ## Задача 1. A/B–тестирование
 ### Цель проекта:  
 - проанализировать результаты A/B-теста новой механики оплаты;
@@ -64,7 +64,7 @@
 
 ---
 
-## [E-commerce проект, анализ покупок](https://github.com/RomanFeofanov/my_projects/blob/main/Project_1.ipynb)
+## [E-commerce проект, анализ покупок](https://github.com/RomanFeofanov/my_projects/blob/main/1st_project/Project_1.ipynb)
 ### Цель проекта:  
 - выбрать критерии, определяющие что считать покупкой и какой товар считать недоставленным;  
 - определить количество пользователей, сделавших только одну покупку;
