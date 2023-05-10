@@ -64,7 +64,7 @@
 
 ---
 
-## [E-commerce проект, анализ покупок](https://github.com/RomanFeofanov/my_projects/blob/main/Project_1.ipynb/"Ссылка на проект")
+## [E-commerce проект, анализ покупок](https://github.com/RomanFeofanov/my_projects/blob/main/Project_1.ipynb)
 ### Цель проекта:  
 - выбрать критерии, определяющие что считать покупкой и какой товар считать недоставленным;  
 - определить количество пользователей, сделавших только одну покупку;
